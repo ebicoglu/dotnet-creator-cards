@@ -24,6 +24,10 @@
     {
       "type": "LinkTagRssType",
       "url": "https://medium.com/feed/@alperonline"
+    },
+    {
+      "type": "LinkTagRssType",
+      "url": "https://abp.io/community/rss?member=alper"
     }
   ],
   "projects": [
